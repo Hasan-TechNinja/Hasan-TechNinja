@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm passionate about creating impactful web applic
 - 👀 **Interests:** Django Development, Full-Stack Development, and AI integration in web apps.
 - 🌱 **Currently Learning:** Advanced Django concepts and RESTful APIs.
 - 🤝 **Looking to Collaborate On:** Innovative Django projects and open-source contributions.
-- 🌐 **Connect With Me On:** [Facebook](#) | [LinkedIn](#)
 - 😄 **Pronouns:** He/Him
 
 ---
