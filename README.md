@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Abdus Salam Hasan
-#### 🚀 Full-Stack Web Developer | Django Enthusiast
+#### 🚀 Backend Web Developer | Django Enthusiast
 
-Welcome to my GitHub profile! I'm passionate about creating impactful web applications with **Django** and leveraging the latest technologies for solving real-world problems.
+I'm passionate about crafting impactful web applications using Django and other cutting-edge technologies to solve real-world problems. As a backend developer, I specialize in building robust, scalable, and secure systems that drive seamless user experiences.
 
 ---
 
