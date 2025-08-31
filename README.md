@@ -6,8 +6,8 @@ I'm passionate about crafting impactful web applications using Django and other 
 ---
 
 ### 🌟 About Me
-- 👀 **Interests:** Django Development, Full-Stack Development, and AI integration in web apps.
-- 🌱 **Currently Learning:** Advanced Django concepts and RESTful APIs.
+- 👀 **Interests:** Django backend Development and AI integration.
+- 🌱 **Currently Working:** Django RESTful APIs.
 - 🤝 **Looking to Collaborate On:** Innovative Django projects and open-source contributions.
 - 😄 **Pronouns:** He/Him
 
