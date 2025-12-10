@@ -1,15 +1,15 @@
 ### Hi there 👋, I'm Abdus Salam Hasan
-#### 🚀 Software Developer, Python | Django Rest API
+#### Software Engineer, Python | Django Rest API | Linux
 
-I'm passionate about crafting impactful web applications using Django and other cutting-edge technologies to solve real-world problems. As a backend developer, I specialize in building robust, scalable, and secure systems that drive seamless user experiences.
+I'm passionate about crafting impactful web & mobile applications using Django Rest API and other cutting-edge technologies to solve real-world problems. As a backend developer, I specialize in building robust, scalable, and secure systems that drive seamless user experiences.
 
 ---
 
-### 🌟 About Me
-- 👀 **Interests:** Django backend Development and AI integration.
-- 🌱 **Currently Working:** Django RESTful APIs.
-- 🤝 **Looking to Collaborate On:** Innovative Django projects and open-source contributions.
-- 😄 **Pronouns:** He/Him
+### About Me
+- **Interests:** Django backend Development and AI integration.
+- **Currently Working:** Django RESTful APIs.
+- **Looking to Collaborate On:** Innovative Django projects and open-source contributions.
+- **Pronouns:** He/Him
 
 ---
 
