@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋, I'm -->
 <!-- #### Software Engineer, Python | Django Rest API | Linux -->
 ### Hi there 👋, I'm Md. Abdus Salam Hasan
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;Backend+Developer;Rest+API+Developer;Clean+Code+%7C+System+Design+Enthusiast;Python+%7C+Django+Rest+API+%7C+Linux;PostgreSQL+%7C+WebSocket+%7C+Nginx)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;Backend+Developer;Rest+API+Developer;Clean+Code+%7C+System+Design;Python+%7C+Django+Rest+API+%7C+Linux;PostgreSQL+%7C+WebSocket+%7C+Nginx;Gunicorn+%7C+Uvicorn)
 
 I'm a passionate **Software Engineer** focused on building scalable, reliable, and efficient backend systems.  
 I love working with **Python**, **Django**, and **RESTful APIs** to bring ideas to life through clean, maintainable code.
